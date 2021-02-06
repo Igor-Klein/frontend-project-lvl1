@@ -5,6 +5,10 @@
 
 ![Super-Linter](https://github.com/Igor-Klein/frontend-project-lvl1/workflows/Super-Linter/badge.svg)
 
-Brain-even
+Brain-Even
 
 [![asciicast](https://asciinema.org/a/1QcqQ8PBB4fiBNGJjIZmlXzNe.svg)](https://asciinema.org/a/1QcqQ8PBB4fiBNGJjIZmlXzNe)
+
+Brain-Calc
+
+[![asciicast](https://asciinema.org/a/vYesZDbhuTDxmfZVD8cVRsCRk.svg)](https://asciinema.org/a/vYesZDbhuTDxmfZVD8cVRsCRk)
