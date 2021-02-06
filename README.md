@@ -3,7 +3,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/c8a12f3705d8572c0cfc/maintainability)](https://codeclimate.com/github/Igor-Klein/frontend-project-lvl1/maintainability)
 
-![CI](https://github.com/Igor-Klein/frontend-project-lvl1/workflows/CI/badge.svg?branch=main)
+![Super-Linter](https://github.com/Igor-Klein/frontend-project-lvl1/workflows/Super-Linter/badge.svg)
 
 Brain-even
 
