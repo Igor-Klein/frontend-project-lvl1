@@ -16,3 +16,9 @@ export const getRandomValue = (maxValue = 1000) => {
 
   return Math.floor(Math.random() * (maxValue - minValue + 1)) + minValue;
 };
+
+export const getGcd = (firstValue, secondValue) => {
+  if (!secondValue) return firstValue;
+
+  return getGcd(secondValue, firstValue % secondValue);
+};
